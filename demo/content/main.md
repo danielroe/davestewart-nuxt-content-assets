@@ -2,7 +2,7 @@
 title: Nuxt Content Assets - Demo
 ---
 
-<img src="splash.png" style="margin: -20px 0">
+<nuxt-img src="splash.png" style="margin: -20px 0" />
 
 # Demo
 
